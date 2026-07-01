@@ -1,0 +1,25 @@
+h1{color: blue;}
+
+p{color: rgb(73, 153, 73); text-align: center;}
+
+a{color: #c8ff00;text-decoration:none;font-weight:bold;text-align: center;}
+
+a:hover{color: rgb(252, 170, 18);}
+
+body{background-color: #474947;padding: 30px;color: white;}
+
+body{font-family: arial,sans-serif;}
+
+img{ display:block; margin:auto;}
+
+h2{color: rgb(127, 196, 63);}
+
+img{border-radius: 50%; transition: 0.5s;width: 200px; max-width: 100%; box-shadow: 0 0 10px rgba(193, 230, 63, 0.5);}
+
+img:hover{transform: scale(1.2);}
+
+p{color: rgb(233, 237, 247); text-align: center;}
+
+a{font-size: 20px; text-align: center;}
+
+h3{color: rgb(207, 157, 48);;}
