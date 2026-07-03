@@ -1,0 +1,12 @@
+body{background-color: rgb(208, 245, 134); padding: 20px ; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h1{color: rgb(186, 80, 9); text-align: center; }
+
+button{border-color:2px solid brown; padding: 10px 20px;}
+button:hover{background-color: brown; color: white;}
+
+h3{color: rgb(0, 0, 0);}
+
+img{margin-top: 10px;}
+
+span{color: darkgreen;}
